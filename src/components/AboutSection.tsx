@@ -59,7 +59,7 @@ const categories: Record<Category, string[] | { title: string; description: stri
   References: [
     {
       title: "Dragon Ball Series",
-      description: "Kakarot, better known as Goku, originates from Akira Toriyama’s celebrated \"Dragon Ball\" universe. His adventures span \"Dragon Ball,\" \"Dragon Ball Z,\" \"Dragon Ball GT,\" \"Dragon Ball Super,\" and the upcoming \"Dragon Ball Daima\" premiering in 2024.",
+      description: "Kakarot, better known as Goku, originates from Akira Toriyama’s celebrated \"Dragon Ball\" universe. His adventures span \"Dragon Ball,\" \"Dragon Ball Z,\" \"Dragon Ball GT,\" \"Dragon Ball Super,\" and the latest \"Dragon Ball Daima\", which premiered in late 2024.",
       image: "/images/db.png"
     },
     {
