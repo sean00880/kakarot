@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     title: "Kakarotsol | Unleash the Power of Kakarot",
     description:
       "Join the ultimate journey with Goku as we explore the origins, transformations, and achievements of the legendary Saiyan warrior.",
-    images: ["/images/meta-image.png"], // Twitter image
+    images: ["/images/goku2.png"], // Twitter image
   },
 };
 
