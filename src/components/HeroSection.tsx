@@ -36,14 +36,6 @@ export default function HeroSection() {
           Join the ultimate journey with Goku as we explore the origins, transformations,
           and achievements of the legendary Saiyan warrior.
         </p>
-        <div className="flex space-x-4 items-center justify-center">
-          <button className="px-6 py-3 bg-blue-600 rounded-md shadow-lg font-bold">
-            Join the Community
-          </button>
-          <button className="px-6 py-3 bg-green-600 rounded-md shadow-lg font-bold">
-            Learn More
-          </button>
-        </div>
 
         {/* Glassmorphism Section */}
         <div className="mt-12 relative p-6 rounded-xl backdrop-blur-lg bg-white/10 border border-white/20 shadow-lg">
